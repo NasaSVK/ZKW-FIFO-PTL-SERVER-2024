@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KEPZET.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Port11" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="Port12" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2001</Value>
+    </Setting>
+    <Setting Name="Port21" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2002</Value>
+    </Setting>
+    <Setting Name="Port22" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2003</Value>
+    </Setting>
+    <Setting Name="cIP11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.16.109.81</Value>
+    </Setting>
+    <Setting Name="cIP12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.16.109.38</Value>
+    </Setting>
+    <Setting Name="cIP21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.16.109.98</Value>
+    </Setting>
+    <Setting Name="cIP22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.16.109.33</Value>
+    </Setting>
+    <Setting Name="cPort11" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2004</Value>
+    </Setting>
+    <Setting Name="cPort12" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2005</Value>
+    </Setting>
+    <Setting Name="cPort21" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2006</Value>
+    </Setting>
+    <Setting Name="cPort22" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2007</Value>
+    </Setting>
+    <Setting Name="hala" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
